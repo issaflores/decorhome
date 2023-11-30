@@ -1,6 +1,6 @@
-###Decor Home Website
+### Decor Home Website
 
-#Descrição do Projeto
+# Descrição do Projeto
 O projeto "Decor Home Website" é um site dedicado a promover e informar sobre um evento de decoração de interiores chamado "Decor Home". Desenvolvido utilizando apenas HTML e CSS, o site visa proporcionar uma experiência elegante e responsiva aos visitantes interessados no evento.
 
 ##Estrutura do Projeto
@@ -10,7 +10,7 @@ index.html: Contém a estrutura principal do site, incluindo cabeçalho, seçõe
 
 css/styles.css: Arquivo de estilo que controla a aparência e layout de todo o site. Utiliza a fonte "Montserrat" do Google Fonts e integra os ícones da Bootstrap Icons.
 
-##Funcionalidades e Características
+## Funcionalidades e Características
 Layout Responsivo: Implementação de um design responsivo para garantir uma experiência consistente em diferentes dispositivos.
 
 Formulário de Inscrição: Seção interativa que permite aos visitantes se inscreverem para receber detalhes exclusivos sobre o evento.
@@ -21,7 +21,7 @@ Chamada para Ação (CTA): Botão de inscrição na seção "CTA" estilizado par
 
 Rodapé Informativo: Inclusão de informações essenciais sobre o evento, como nome, slogan e detalhes de contato.
 
-##Como Contribuir
+## Como Contribuir
 Se você deseja contribuir para a melhoria deste projeto, siga estas etapas:
 
 Faça um fork do repositório.
