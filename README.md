@@ -3,7 +3,7 @@
 # Descrição do Projeto
 O projeto "Decor Home Website" é um site dedicado a promover e informar sobre um evento de decoração de interiores chamado "Decor Home". Desenvolvido utilizando apenas HTML e CSS, o site visa proporcionar uma experiência elegante e responsiva aos visitantes interessados no evento.
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 O projeto segue uma estrutura simples, com arquivos HTML e CSS organizados da seguinte forma:
 
 index.html: Contém a estrutura principal do site, incluindo cabeçalho, seções, formulário de inscrição e rodapé.
